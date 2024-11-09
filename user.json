@@ -1,22 +1,2 @@
 [
-  {
-    "username": "Vishal",
-    "password": "12345",
-    "token": "4ef11ec2-640a-4ef9-9fca-a8cec9cece0c"
-  },
-  {
-    "username": "Anjani jha",
-    "password": "Vishal@85",
-    "token": "2ca6a68a-a21f-4cd8-9fd3-a62960d38563"
-  },
-  {
-    "username": "Gopi raman jha",
-    "password": "Maithali@333",
-    "token": "ac42c3ed-54f1-424a-b713-0c8dc6d44cd1"
-  },
-  {
-    "username": "Girdhar Jha",
-    "password": "Kirti@123",
-    "token": null
-  }
 ]
